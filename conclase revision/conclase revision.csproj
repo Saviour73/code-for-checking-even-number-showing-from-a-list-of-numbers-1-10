@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>conclase_revision</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\user\Desktop\visual studio sav\Conclase academy if else statement to checked even numbers code.cs" Link="Conclase academy if else statement to checked even numbers code.cs" />
+  </ItemGroup>
+
+</Project>
